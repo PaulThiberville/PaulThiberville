@@ -1,9 +1,8 @@
 <img alt="Web developper banner" src="https://raw.githubusercontent.com/PaulThiberville/PaulThiberville/main/web-developer-banner.png" />
 <h3 align="center">Hello I'm Paul from France</h3>
 
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **paul.thiberville@gmail.com**
+- 🌱 I’m currently learning **Web developpement**
+- 📫 You can join me at **paul.thiberville@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
