@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PaulThiberville
 - 👀 I’m interested in web and game developpement
-- 🌱 I’m currently learning Javascript, ReactJS, NodeJS, MongoDb, Sequelize, C#, .NET, Unity3d
+- 🌱 I’m currently learning Javascript, ReactJS, NodeJS, Mongoose, Sequelize, C#, .NET, Unity3d
 - 📫 How to reach me : paul.thiberville@gmail.com
