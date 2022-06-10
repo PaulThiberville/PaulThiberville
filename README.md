@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulthiberville&label=Profile%20views&color=0e75b6&style=flat" alt="paulthiberville" /> </p>
 <img alt="Web developper banner" src="https://raw.githubusercontent.com/PaulThiberville/PaulThiberville/main/web-developer-banner.png" />
 <h3 align="center">Hello I'm Paul from France</h3>
 
