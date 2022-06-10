@@ -1,21 +1,5 @@
 <img alt="Web developper banner" src="https://raw.githubusercontent.com/PaulThiberville/PaulThiberville/main/web-developer-banner.png" />
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-10270
-Fork on GitHub
-2570
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulthiberville&label=Profile%20views&color=0e75b6&style=flat" alt="paulthiberville" /> </p>
