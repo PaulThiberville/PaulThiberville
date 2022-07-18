@@ -2,7 +2,10 @@
 <img alt="Web developper banner" src="https://raw.githubusercontent.com/PaulThiberville/PaulThiberville/main/web-developer-banner.png" />
 <h3 align="center">Hello I'm Paul from France</h3>
 
-- 🌱 I’m currently learning **Web developpement**
+- 🔭 I’m currently working on **Web developpement**
+
+- 🌱 I’m currently learning Jest and TDD
+
 - 📫 You can join me at **paul.thiberville@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
