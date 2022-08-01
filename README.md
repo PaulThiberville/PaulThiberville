@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Web developpement**
 
-- 🌱 I’m currently learning Jest and TDD
+- 🌱 I’m currently learning Redux async actions, middlewares and best pratictices
 
 - 📫 You can join me at **paul.thiberville@gmail.com**
 
