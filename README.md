@@ -2,9 +2,7 @@
 <img alt="Web developper banner" src="https://raw.githubusercontent.com/PaulThiberville/PaulThiberville/main/web-developer-banner.png" />
 <h3 align="center">Hello I'm Paul from France</h3>
 
-- 🔭 I’m currently working on **Web developpement**
-
-- 🌱 I’m currently learning Redux async actions, middlewares and best pratictices
+- 🔭 I’m currently working on **Singlepage web applications** with **React**.
 
 - 📫 You can join me at **paul.thiberville@gmail.com**
 
