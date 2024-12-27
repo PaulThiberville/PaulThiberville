@@ -1,6 +1,10 @@
-<h1 align="left">Hello I'm Paul from France</h1>
+# Hello, I'm Paul from France!
 
-💪 I’m currently working on [Budly](https://www.budly.link/) web and mobile applications. </br>
-❤️ I'm using React, React Native and Firebase on a daily basis.
-☁️ I also have basic knowledge of Docker and managing google cloud platform clusters with Kubernetes.
-📫 You can join me at **paul.thiberville@gmail.com**
+👋 Hi there! Welcome to my GitHub profile. Here's a bit about me:
+
+- 💪 I’m currently working on [Budly](https://www.budly.link/), developing both web and mobile applications.  
+- ❤️ I work daily with **React**, **React Native**, and **Firebase** to bring projects to life.  
+- ☁️ I also have basic knowledge of **Docker** and managing **Google Cloud Platform** clusters with **Kubernetes**.  
+- 📫 Feel free to reach out by [email](mailto:paul.thiberville@gmail.com). I'd love to hear from you!  
+
+Thanks for stopping by! 🚀
